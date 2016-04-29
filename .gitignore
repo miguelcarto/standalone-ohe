@@ -1,0 +1,5 @@
+
+software/*.bin
+software/*.gz
+
+vagrant/.vagrant
